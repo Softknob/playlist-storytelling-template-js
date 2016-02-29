@@ -4,11 +4,14 @@ Playlist
 ### Deprecated App
 This application is no longer in active development.
 
+#### [Playlist Tutorial](https://github.com/Esri/playlist-storytelling-template-js/blob/master/Playlist.Tutorial.pdf)
+
 The playlist app is a storytelling template that organizes point data sets, usually from a CSV file embedded in a web map, into an organized interactive list. Your audience can explore the points from the map itself or they can click on a corresponding item in a list.
 
 ![App](https://raw.github.com/esri/playlist-storytelling-template-js/master/playlist-screenshot.png)
 
 [View it live](http://esri.github.io/playlist-storytelling-template-js/deploy/) |
+[Tutorial](https://github.com/Esri/playlist-storytelling-template-js/blob/master/Playlist.Tutorial.pdf) |
 [User Download (source code not included)](http://bit.ly/1cImr14) |
 [Developer Download](http://bit.ly/1h7LzUy)
 
